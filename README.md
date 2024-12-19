@@ -11,7 +11,7 @@ I am studying Programming at the National Technological University. Python, C#, 
   - React
   - Angular
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help.💪
+- ✔ Ask me about anything, I am happy to help.
 - Outside tech, 📖 I like to read, 💪 I love to train, 🎵 listen to music, and 🌴 and discover new places.
 - 📫 Reach out to me at: <a href="#">franciscomartinezbalian@gmail.com</a>
 
