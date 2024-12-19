@@ -55,11 +55,3 @@ I am studying Programming at the National Technological University. Python, C#, 
 <h2>Github stats</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Francis2705&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Francis2705)
-
-----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
-</p>
-
-------
